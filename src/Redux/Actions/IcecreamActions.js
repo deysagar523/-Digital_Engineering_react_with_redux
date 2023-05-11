@@ -1,0 +1,2 @@
+export const ORDER_ICECREAM = "ORDER_ICECREAM";
+export const ADD_ICECREAM = "ADD_ICECREAM";
